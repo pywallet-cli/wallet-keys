@@ -9,6 +9,6 @@
     sudo ./keys-cli
 
 # Windows Usage
-  Put your wallet.dat in the same directory and execute:
-  Execute keys.exe in CLI (cmd.exe)
+    Put your wallet.dat in the same directory and execute:
+    Execute keys.exe in CLI (cmd.exe)
 
