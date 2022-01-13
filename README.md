@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="kmSSmoLuG-qo0mU91tm1lOlDGoUfJRjK6Dqv7z54a0k" />
+
 
 # Extract Bitcoin Private Keys from wallet.dat (CLI)
 [![PyPI version](https://badge.fury.io/py/bip-utils.svg)](https://badge.fury.io/py/bip-utils)
