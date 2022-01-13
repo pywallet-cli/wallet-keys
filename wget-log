@@ -1,0 +1,16 @@
+--2022-01-13 13:12:24--  https://search.google.com/u/1/search-console/verification-download?resource_id=https%3A%2F%2Fgithub.com%2Fpywallet-cli%2Fwallet-keys%2F
+Resolviendo search.google.com (search.google.com)... 142.250.184.174, 2a00:1450:4003:80f::200e
+Conectando con search.google.com (search.google.com)[142.250.184.174]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 302 Found
+Ubicación: https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://search.google.com/u/1/search-console/verification-download?resource_id%3Dhttps://github.com/pywallet-cli/wallet-keys/&followup=https://search.google.com/u/1/search-console/verification-download?resource_id%3Dhttps://github.com/pywallet-cli/wallet-keys/ [siguiente]
+--2022-01-13 13:12:25--  https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://search.google.com/u/1/search-console/verification-download?resource_id%3Dhttps://github.com/pywallet-cli/wallet-keys/&followup=https://search.google.com/u/1/search-console/verification-download?resource_id%3Dhttps://github.com/pywallet-cli/wallet-keys/
+Resolviendo accounts.google.com (accounts.google.com)... 142.250.200.141, 2a00:1450:4003:80c::200d
+Conectando con accounts.google.com (accounts.google.com)[142.250.200.141]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: no especificado [text/html]
+Guardando como: “verification-download?resource_id=https:%2F%2Fgithub.com%2Fpywallet-cli%2Fwallet-keys%2F”
+
+                     verification-downloa     [<=>                                                                                   ]       0  --.-KB/s               verification-download?resource_id=https:%     [ <=>                                                                                  ]  89,79K  --.-KB/s    en 0,03s   
+
+2022-01-13 13:12:25 (2,77 MB/s) - “verification-download?resource_id=https:%2F%2Fgithub.com%2Fpywallet-cli%2Fwallet-keys%2F” guardado [91945]
+
